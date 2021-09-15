@@ -1,2 +1,9 @@
-package company;public interface Deck {
+package company;
+
+public interface Deck {
+
+    void shuffle();
+    Card draw();
+
+
 }
