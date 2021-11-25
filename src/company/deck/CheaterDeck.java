@@ -1,7 +1,8 @@
-package company;
+package company.deck;
+
+import company.hand.Card;
 
 import java.util.Arrays;
-import java.util.Collections;
 import java.util.Scanner;
 
 public class CheaterDeck implements Deck{

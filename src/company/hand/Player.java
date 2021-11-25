@@ -1,4 +1,4 @@
-package company;
+package company.hand;
 
 import java.util.ArrayList;
 

@@ -1,10 +1,12 @@
-package company;
+package company.deck;
+
+import company.hand.Card;
 
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public class StandardDeck implements Deck{
+public class StandardDeck implements Deck {
 
     private final List<Card> cards = new ArrayList<>();
 

@@ -1,4 +1,6 @@
-package company;
+package company.deck;
+
+import company.hand.Card;
 
 public interface Deck {
 

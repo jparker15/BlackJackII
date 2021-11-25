@@ -1,4 +1,4 @@
-package company;
+package company.hand;
 
 public class Card {
     private final String SUIT;
